@@ -2,6 +2,7 @@
   "name": "@mofe/wait",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "git@github.com:mofelee/wait.git",
   "author": "Mofe Lee <mofe@me.com>",
   "license": "MIT"
 }
